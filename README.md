@@ -14,4 +14,4 @@
 > Export As XML
 ```
 
-Search - office deployment tool and download it
+Search - office deployment tool and download it.Then create a folder and move config.xml file and software to the folder.
